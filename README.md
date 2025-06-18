@@ -37,4 +37,4 @@ This project provides an automated solution to extract structured data from tech
 
 ## 👋 Contact
 
-For freelance work or project collaboration, feel free to reach me via [Upwork profile link] or open an issue in this repository.
+For freelance work or project collaboration, feel free to reach me via [[Upwork profile link](https://www.upwork.com/freelancers/~0199ff5f379ffac0a8?mp_source=share)] or open an issue in this repository.
